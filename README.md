@@ -2,6 +2,8 @@
 Fuzzy Ruby
 ==========
 
+[![Build Status](https://travis-ci.org/benweissmann/fuzzy-ruby.svg)](https://travis-ci.org/benweissmann/fuzzy-ruby)
+
 One of the most difficult parts of programming is spelling everything correctly.
 Particularly in a dynamic-typed language like Ruby, a single typo can cause
 a critical runtime failure.
